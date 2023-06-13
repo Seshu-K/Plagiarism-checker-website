@@ -1,1 +1,3 @@
-# Plagiarism-checker-website
+The above codes are for creating the Plagiarism checker website. 
+I have designed this plagiarism checker website using html, css and javascript.
+Here in this site the plagiarism we get in percentage which is generated randomly.Implementing a fully functional plagiarism checker with accurate percentage results requires a sophisticated algorithm and extensive development effort, which is beyond the scope of a simple code example. Creating a reliable plagiarism detection system involves complex text analysis, comparison, and pattern matching techniques. so, if we want to design a accurate plagiarism a natural language processing is required and sophisticated system from scratch is not feasible.
